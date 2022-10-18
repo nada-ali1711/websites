@@ -1,0 +1,23 @@
+body { 
+    background: #210404;
+font-family:Arial, Helvetica, sans-serif
+}
+h1{ color:deeppink;
+    font-size:25px;
+
+}
+a{
+    color:cornflowerblue;
+    text-decoration:underline;
+
+}
+a:hover{ 
+    color:deeppink;
+    text-decoration: none;
+}
+h2{ color:deeppink;
+    font-size:16px;
+}
+p{ color:deeppink;
+    font-size:14px;
+}
